@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "datos_alumno/1.0.0": {
+        "runtime": {
+          "datos_alumno.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "datos_alumno/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

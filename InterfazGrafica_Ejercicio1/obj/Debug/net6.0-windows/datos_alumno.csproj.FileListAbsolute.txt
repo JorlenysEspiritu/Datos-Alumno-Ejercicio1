@@ -1,0 +1,48 @@
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\datos_alumno\bin\Debug\net6.0-windows\datos_alumno.exe
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\datos_alumno\bin\Debug\net6.0-windows\datos_alumno.deps.json
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\datos_alumno\bin\Debug\net6.0-windows\datos_alumno.runtimeconfig.json
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\datos_alumno\bin\Debug\net6.0-windows\datos_alumno.dll
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\datos_alumno\bin\Debug\net6.0-windows\datos_alumno.pdb
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\datos_alumno\obj\Debug\net6.0-windows\datos_alumno.Form1.resources
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\datos_alumno\obj\Debug\net6.0-windows\datos_alumno.csproj.GenerateResource.cache
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\datos_alumno\obj\Debug\net6.0-windows\datos_alumno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\datos_alumno\obj\Debug\net6.0-windows\datos_alumno.AssemblyInfoInputs.cache
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\datos_alumno\obj\Debug\net6.0-windows\datos_alumno.AssemblyInfo.cs
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\datos_alumno\obj\Debug\net6.0-windows\datos_alumno.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\datos_alumno\obj\Debug\net6.0-windows\datos_alumno.dll
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\datos_alumno\obj\Debug\net6.0-windows\refint\datos_alumno.dll
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\datos_alumno\obj\Debug\net6.0-windows\datos_alumno.pdb
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\datos_alumno\obj\Debug\net6.0-windows\datos_alumno.genruntimeconfig.cache
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\datos_alumno\obj\Debug\net6.0-windows\ref\datos_alumno.dll
+D:\datos_alumno\bin\Debug\net6.0-windows\datos_alumno.exe
+D:\datos_alumno\bin\Debug\net6.0-windows\datos_alumno.deps.json
+D:\datos_alumno\bin\Debug\net6.0-windows\datos_alumno.runtimeconfig.json
+D:\datos_alumno\bin\Debug\net6.0-windows\datos_alumno.dll
+D:\datos_alumno\bin\Debug\net6.0-windows\datos_alumno.pdb
+D:\datos_alumno\obj\Debug\net6.0-windows\datos_alumno.Form1.resources
+D:\datos_alumno\obj\Debug\net6.0-windows\datos_alumno.csproj.GenerateResource.cache
+D:\datos_alumno\obj\Debug\net6.0-windows\datos_alumno.GeneratedMSBuildEditorConfig.editorconfig
+D:\datos_alumno\obj\Debug\net6.0-windows\datos_alumno.AssemblyInfoInputs.cache
+D:\datos_alumno\obj\Debug\net6.0-windows\datos_alumno.AssemblyInfo.cs
+D:\datos_alumno\obj\Debug\net6.0-windows\datos_alumno.csproj.CoreCompileInputs.cache
+D:\datos_alumno\obj\Debug\net6.0-windows\datos_alumno.dll
+D:\datos_alumno\obj\Debug\net6.0-windows\refint\datos_alumno.dll
+D:\datos_alumno\obj\Debug\net6.0-windows\datos_alumno.pdb
+D:\datos_alumno\obj\Debug\net6.0-windows\datos_alumno.genruntimeconfig.cache
+D:\datos_alumno\obj\Debug\net6.0-windows\ref\datos_alumno.dll
+C:\Users\jorle\OneDrive\Escritorio\ejercicio gamaliel\alumno ejercicio 1\bin\Debug\net6.0-windows\datos_alumno.exe
+C:\Users\jorle\OneDrive\Escritorio\ejercicio gamaliel\alumno ejercicio 1\bin\Debug\net6.0-windows\datos_alumno.deps.json
+C:\Users\jorle\OneDrive\Escritorio\ejercicio gamaliel\alumno ejercicio 1\bin\Debug\net6.0-windows\datos_alumno.runtimeconfig.json
+C:\Users\jorle\OneDrive\Escritorio\ejercicio gamaliel\alumno ejercicio 1\bin\Debug\net6.0-windows\datos_alumno.dll
+C:\Users\jorle\OneDrive\Escritorio\ejercicio gamaliel\alumno ejercicio 1\bin\Debug\net6.0-windows\datos_alumno.pdb
+C:\Users\jorle\OneDrive\Escritorio\ejercicio gamaliel\alumno ejercicio 1\obj\Debug\net6.0-windows\datos_alumno.Form1.resources
+C:\Users\jorle\OneDrive\Escritorio\ejercicio gamaliel\alumno ejercicio 1\obj\Debug\net6.0-windows\datos_alumno.csproj.GenerateResource.cache
+C:\Users\jorle\OneDrive\Escritorio\ejercicio gamaliel\alumno ejercicio 1\obj\Debug\net6.0-windows\datos_alumno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorle\OneDrive\Escritorio\ejercicio gamaliel\alumno ejercicio 1\obj\Debug\net6.0-windows\datos_alumno.AssemblyInfoInputs.cache
+C:\Users\jorle\OneDrive\Escritorio\ejercicio gamaliel\alumno ejercicio 1\obj\Debug\net6.0-windows\datos_alumno.AssemblyInfo.cs
+C:\Users\jorle\OneDrive\Escritorio\ejercicio gamaliel\alumno ejercicio 1\obj\Debug\net6.0-windows\datos_alumno.csproj.CoreCompileInputs.cache
+C:\Users\jorle\OneDrive\Escritorio\ejercicio gamaliel\alumno ejercicio 1\obj\Debug\net6.0-windows\datos_alumno.dll
+C:\Users\jorle\OneDrive\Escritorio\ejercicio gamaliel\alumno ejercicio 1\obj\Debug\net6.0-windows\refint\datos_alumno.dll
+C:\Users\jorle\OneDrive\Escritorio\ejercicio gamaliel\alumno ejercicio 1\obj\Debug\net6.0-windows\datos_alumno.pdb
+C:\Users\jorle\OneDrive\Escritorio\ejercicio gamaliel\alumno ejercicio 1\obj\Debug\net6.0-windows\datos_alumno.genruntimeconfig.cache
+C:\Users\jorle\OneDrive\Escritorio\ejercicio gamaliel\alumno ejercicio 1\obj\Debug\net6.0-windows\ref\datos_alumno.dll
